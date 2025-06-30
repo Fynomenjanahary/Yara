@@ -1,2 +1,3 @@
 # xara
-site e-commerce avec Next
+Site e-commerce avec Nextjs
+Base de donnée : Postgres
